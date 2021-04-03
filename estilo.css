@@ -1,0 +1,104 @@
+.cabecalho{
+    background-color:#CD9B9B;
+    text-align: center;
+    border:solid 10px  #8B0000;
+    font-size: 19px;
+}
+
+#quadrado{
+    background-color:#FFDAB9;
+    margin: 20px;
+    padding: 100px;
+    font-family:"Audiowide", sans-serif;
+}
+#titulo{
+    text-align:center;
+}
+#img1{
+   float: left;
+    height: 200px;
+    width: 250px;
+}
+
+
+.conteudo1{
+    display:inline-table;
+    text-indent: 100px;
+}
+
+
+#img2{
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+.conteudo2{
+    display:inline-table;
+    text-indent: 100px;
+}
+
+
+#img3{
+    float:left;
+    height: 200px;
+    width: 250px;
+}
+
+
+.conteudo3{
+    display:inline-table;
+    text-indent: 100px;
+}
+
+
+#img4{
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+
+
+.conteudo4{
+    display:inline-table;
+    text-indent: 100px;
+}
+
+
+#img5{
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+.conteudo5{
+    display:inline-table;
+    text-indent: 100px;
+}
+
+
+#img6{
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+
+.conteudo6{
+    display:inline-table;
+    text-indent: 100px;
+}
+
+.legenda{
+    text-align: center;
+    border:25px solid #8B0000
+}
+#im{
+    height: 290px;
+    width: 400px;
+}
+
+
+.rodape{
+    background-color:#CD9B9B;
+    text-align: center;
+    border:solid 10px #8B0000;
+    font-size:20px;
+}
